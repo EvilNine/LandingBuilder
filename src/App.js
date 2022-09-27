@@ -16,7 +16,7 @@ function App() {
 
 	useEffect(  ()=> {
 		async function fetchData() {
-			const response = await axios('/bd.json'); // Dev
+			const response = await axios('./bd.json'); // Dev
 			// const response = await axios('/themes/engine/js/webmaster/templatebuilder/bd.json'); // Build
 			if(response.status === 200) {
 				setData(response.data);
