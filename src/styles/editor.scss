@@ -1,0 +1,60 @@
+.gjs-editor {
+    
+}
+.gjs-one-bg {
+    background-color: #2A2F36;
+}
+.gjs-two-color {
+    color: #ACBAD7;
+}
+.gjs-three-bg {
+    background-color: #DC3545;
+    color: #ACBAD7;
+}
+.gjs-four-color,
+.gjs-four-color-h:hover {
+    color: #DC3545;
+}
+.gjs-devices-c {
+    padding: 2px;
+}
+.gjs-block-category {
+    .lni {
+        font-size: 2rem;
+        .gjs-block-label {
+            margin-top: 10px;
+        }
+    }
+}
+
+.gjs-pn-buttons {
+    .lnir, .lni {
+        font-size: 20px;
+        font-size: 16px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+} 
+.gjs-block {
+    &.lnir, &.lni {
+        font-size: 2em;
+        line-height: 2em;
+        padding: 11px;
+    }
+}
+
+.gjs-block {
+    padding: 15px;
+    overflow: hidden;
+    
+    &__image {
+        padding: 0;
+        min-height: auto;    
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+}

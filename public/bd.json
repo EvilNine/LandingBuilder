@@ -1,0 +1,75 @@
+{   
+    "settings": {},
+    "category": [
+        {   
+            "type":"landing",
+            "title": {
+                "ru": "Лэндинг",
+                "en": "Landing page"
+            },
+            "icon": "templates/landing/landing.svg",
+            "items": [
+                {   
+                    "id": 0,
+                    "path": "templates/landing/0",
+                    "title": "Blank template",
+                    "img": "https://via.placeholder.com/600x337?text=Blank+template",
+                    "assets": []
+                },
+                {   
+                    "id": 1,
+                    "path": "templates/landing/1",
+                    "title": "Osteofortis",
+                    "img": "templates/landing/1/osteofortis.png",
+                    "assets": ["sostav-8.png","1-3.png","ajax-loader.gif","av__f-3.png","bg-thanks.jpg","hero.jpg","ice.png","ice1.png","img1.png","img2.png","img3.png","img4.png","img5.png","img6.jpg","img6.png","knee-sq.png","knee.png","koleno.png","logo.svg","offer-box.png","offer-image.png","offer-item.png","reasons.jpg","s16_1.jpg","s16_2.jpg","s16_3.jpg","s16_4.jpg","s16_5.png","s16_6.png","sm-12.png","sostav-1.png","sostav-2.png","sostav-3.png","sostav-4.png","sostav-5.png","sostav-6.png","sostav-7.png"]
+                }
+            ]
+        },
+        {
+            "type":"prelanding",
+            "title": {
+                "ru": "Прелендинг",
+                "en": "Prelanding page"
+            },
+            "icon": "templates/prelanding/prelanding.svg",
+            "items": [
+                {   
+                    "id": 0,
+                    "path": "templates/prelanding/0",
+                    "title": "Blank template",
+                    "img": "https://via.placeholder.com/600x337?text=Blank+template",
+                    "assets": []
+                },
+                {   
+                    "id": 1,
+                    "path": "templates/prelanding/1",
+                    "title": "Meduza",
+                    "img": "templates/prelanding/1/meduza.png",
+                    "assets": ["sol.jpg","otz4.jpg","logo-germania2.png","offer-box.png","otz1.jpg","otz2.jpg","11.jpg","a3fd45d1f497f3bbdb85276e6ec08268ed939132.svg","discount100.png","doc3.png","e532f4e9c23677b76653507e723a39cd30cc6345.svg","loader.gif","8.jpg","9.jpg","10.jpg","7.jpg","6.jpg","5.jpg","4.jpg","3.jpg","2.jpg","1.jpg"]
+                },
+                {   
+                    "id": 2,
+                    "path": "templates/prelanding/2",
+                    "title": "AiF",
+                    "img": "templates/prelanding/2/aif.png",
+                    "assets": ["time.jpg","nigma.jpg","point.jpg","logo.jpg","img_com.png","arrow-down.jpg","ava.jpg","button-png.jpg","footer-logo.jpg","head-soc.jpg","4.jpg","1.jpg","2.jpg","3.jpg"]
+                },
+                {   
+                    "id": 3,
+                    "path": "templates/prelanding/3",
+                    "title": "Cosmo",
+                    "img": "templates/prelanding/3/cosmo.png",
+                    "assets": ["t3.jpg","t2.jpg","c-4.jpg","c-5.jpg","c-11.jpg","c-12.jpg","c-13.jpg","logo.svg","t1.png","04.jpg","05.jpg","author.jpg","c-1.jpg","c-2.gif","03.jpg","01.jpg","02.jpg"]
+                },
+                {   
+                    "id": 4,
+                    "path": "templates/prelanding/4",
+                    "title": "RAMN",
+                    "img": "templates/prelanding/4/ramn.png",
+                    "assets": ["0a6ed293dbf561bd2c289c1a2164c421.png","107.jpg","1072.jpg","12_00100.jpg","201.jpg","21.jpg","231.jpg","24.jpg","25.jpg","27.jpg","28.jpg","30.jpg","300.jpg","302.jpg","303.jpg","304.jpg","305.jpg","306.jpg","307.jpg","308.jpg","310.jpg","312.jpg","314.jpg","315.jpg","av6.jpg","bar-mob.png","bar.jpg","c5789617b6bf73228fe5f84c70df3d2a.png","doc-kz2-1.png","dp1.png","dp2.png","dp3.png","dp4.png","dp5.png","dp6.png","ffe2159a6ae83ccdc0e434e610f0f22f.png","huinya.jpg","img1.jpg","img2.jpg","img3.jpg","img8.jpg","img9.jpg","komment7.jpg","logo1.png","o2.jpg","ob35.jpg","ob37.jpg","ob372.jpg","otz1.jpg","otz2.jpg","print.png","product.png","top3.jpg","top.jpg"]
+                }
+                
+            ]
+        }
+    ]
+}
