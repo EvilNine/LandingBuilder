@@ -22,6 +22,41 @@
                     "title": "Osteofortis",
                     "img": "templates/landing/1/osteofortis.png",
                     "assets": ["sostav-8.png","1-3.png","ajax-loader.gif","av__f-3.png","bg-thanks.jpg","hero.jpg","ice.png","ice1.png","img1.png","img2.png","img3.png","img4.png","img5.png","img6.jpg","img6.png","knee-sq.png","knee.png","koleno.png","logo.svg","offer-box.png","offer-image.png","offer-item.png","reasons.jpg","s16_1.jpg","s16_2.jpg","s16_3.jpg","s16_4.jpg","s16_5.png","s16_6.png","sm-12.png","sostav-1.png","sostav-2.png","sostav-3.png","sostav-4.png","sostav-5.png","sostav-6.png","sostav-7.png"]
+                },
+                {   
+                    "id": 2,
+                    "path": "templates/landing/2",
+                    "title": "NiClean",
+                    "img": "templates/landing/2/niclean.png",
+                    "assets": ["warning.png","t8.png","t6.png","t7.png","t3.png","t4.png","t5.png","t1.png","t2.png","s5.png","s6.png","spec.png","perspective-exterior-nobody-empty-box.jpg","pic12.png","s1.png","s2.png","s3.png","s4.png","offer-img.png","offer-img1.png","period-bg.jpg","icon_3.svg","img1.png","img2.png","av__m-10.png","av__m-11.png","bg.png","bg2.png","head.jpg","icon_1.svg","icon_2.svg","av__f-5.png"]
+                },
+                {   
+                    "id": 3,
+                    "path": "templates/landing/3",
+                    "title": "NaturaForm",
+                    "img": "templates/landing/3/naturaform.png",
+                    "assets": ["arrow_step_down.png","arrow_step_up.png","arrow.png","cross.png","div4.jpg","div4p.png","div9_r1.png","div9_r2.png","div9_r3.png","div9_r4.png","div9.jpg","div9grill.png","div10_1.png","div10_2.png","div10_3.png","div11.jpg","f1.png","f2.png","f3.png","hero__img-left-bottom.png","hero__img-left-top.png","hero__img-left.png","hero__img-right.png","hero-img.png","lvs1.png","lvs2.png","lvs3.png","offer-image1.png","offer-image2.png","palm__leaf.png","rev1.png","rev2.png","rev3.png","s1.png","s2.png","s3.png","s4.png","s5.png","s6.png","s7.png","s8.png","s9.png","sert.png","step1.png","step2.png","step3.png"]
+                },
+                {   
+                    "id": 4,
+                    "path": "templates/landing/4",
+                    "title": "PheroMonstr",
+                    "img": "templates/landing/4/pheroMonstr.png",
+                    "assets": ["sostav10.png","sostav7.png","sostav8.png","sostav9.png","sostav3.png","sostav4.png","sostav5.png","sostav6.png","sostav1.png","sostav2.png","Pat_1.png","offer-img2.png","offer-img1.png","header_bg-2.png","block_6-bg.png","block_3-bg.png","block_2-bg.png"]
+                },
+                {   
+                    "id": 5,
+                    "path": "templates/landing/5",
+                    "title": "Energene",
+                    "img": "templates/landing/5/energene.png",
+                    "assets": ["w4.png","s4.png","s5.png","s6.png","w1.png","w2.png","w3.png","s1.png","s2.png","s3.png","h1.png","h2.png","h3.png","icon_1.svg","icon_2.svg","icon_3.svg","n1.png","n2.png","n3.png","n4.png","offer-image1.png","offer-image2.png","offer-image3.png","purple-galaxy-background_1017-3748.jpg","av__f-5.png","av__m-8.png","av__m-9.png","bg-sostav.png","bg.png","cb26d15db3ea6f6363ce212f0b26a0c0.jpg"]
+                },
+                {   
+                    "id": 6,
+                    "path": "templates/landing/6",
+                    "title": "EleVital",
+                    "img": "templates/landing/6/elevital.png",
+                    "assets": ["step3.png","step2.png","step1.png","s8.png","s9.png","sert.png","spec.png","s3.png","s4.png","s5.png","s6.png","s7.png","rev3.png","s1.png","palm__leaf.png","rev1.png","rev2.png","lvs3.png","m1.png","offer-image1.png","offer-image2.png","lvs2.png","hospital.jpg","lvs1.png","hero__img-right.png","hero-img.png","hero__img-left.png","hero__img-left-top.png","hero__img-left-bottom.png","f2.png","f1.png","div11.jpg","div4p.png","div4.jpg","cross.png","arrow_step_up.png","arrow_step_down.png"]
                 }
             ]
         },
